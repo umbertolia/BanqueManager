@@ -1,0 +1,13 @@
+metier\beans\Retrait.class
+metier\impl\BanqueDAOImpl.class
+metier\beans\Client.class
+metier\beans\CompteCourant.class
+metier\beans\Groupe.class
+metier\beans\Compte.class
+metier\beans\Bean.class
+metier\beans\CompteEpargne.class
+metier\beans\Employe.class
+metier\beans\Badge.class
+metier\interfaces\IBanqueDAO.class
+metier\beans\Operation.class
+metier\beans\Versement.class
